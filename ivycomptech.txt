@@ -1,5 +1,5 @@
-Q&A   -- IVY INFOTECH -- Friday Interview
---------------------------------------------
+Q&A   -- IVY INFOTECH -- Friday Interview --Added by Navya
+-------------------------------------------------------------
 
 1) what is the differnce between fetch ,pull in Git
 
