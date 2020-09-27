@@ -1,3 +1,6 @@
+Q&A
+-----
+
 1) what is the differnce between fetch ,pull in Git
 
 2) subnets in AWS
