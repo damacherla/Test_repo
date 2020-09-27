@@ -1,0 +1,15 @@
+1) what is the differnce between fetch ,pull in Git
+
+2) subnets in AWS
+
+3) Jekins backend how it works
+
+4) what are magic variables in ansible
+
+5) Anisbe --dev,qa  100 varibles, how you will manage ( I explained --tags to limit playbooks)
+
+6) Docker networking --If microservice restarts , 1 micro service running on(10.0.0.1) and move to other ip
+
+
+
+
